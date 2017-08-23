@@ -44,8 +44,7 @@ namespace Final.Controllers
             {               
                ViewBag.error = "Nom d'utilisateur ou mot de passe invlaide";                                                               
                return View();
-            }
-                
+            }                
             return RedirectToAction("Index", "Home");
         }
 
