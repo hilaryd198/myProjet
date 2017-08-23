@@ -1,0 +1,222 @@
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Final.dll.config
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Final.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Final.pdb
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Antlr3.Runtime.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\EntityFramework.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\EntityFramework.SqlServer.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Newtonsoft.Json.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Owin.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.Helpers.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.Mvc.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.Optimization.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.Razor.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.WebPages.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.WebPages.Razor.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\WebGrease.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.Helpers.xml
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.Mvc.xml
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.Optimization.xml
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.Razor.xml
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.WebPages.xml
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.WebPages.Razor.xml
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Newtonsoft.Json.xml
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Antlr3.Runtime.pdb
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\EntityFramework.xml
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\EntityFramework.SqlServer.xml
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.xml
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.xml
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\fr\System.Web.Razor.resources.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\fr\EntityFramework.resources.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\obj\Debug\Final.dll
+C:\Users\ProgWeb\Documents\Visual Studio 2013\Projects\Final\Final\obj\Debug\Final.pdb
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Final.dll.config
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Final.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Final.pdb
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Antlr3.Runtime.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\EntityFramework.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\EntityFramework.SqlServer.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Microsoft.AspNet.Identity.Core.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Microsoft.Owin.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Microsoft.Owin.Security.Cookies.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Microsoft.Owin.Security.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Microsoft.Owin.Security.Facebook.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Microsoft.Owin.Security.Google.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Microsoft.Owin.Security.OAuth.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Microsoft.Owin.Security.Twitter.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Microsoft.Web.Infrastructure.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Newtonsoft.Json.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Owin.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\System.Web.Helpers.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\System.Web.Mvc.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\System.Web.Optimization.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\System.Web.Razor.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\System.Web.WebPages.Deployment.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\System.Web.WebPages.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\System.Web.WebPages.Razor.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\WebGrease.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\System.Web.Helpers.xml
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\System.Web.Mvc.xml
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\System.Web.Optimization.xml
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\System.Web.Razor.xml
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\System.Web.WebPages.xml
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\System.Web.WebPages.Deployment.xml
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\System.Web.WebPages.Razor.xml
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Newtonsoft.Json.xml
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Antlr3.Runtime.pdb
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\EntityFramework.xml
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\EntityFramework.SqlServer.xml
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Microsoft.AspNet.Identity.Core.xml
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Microsoft.Owin.xml
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Microsoft.Owin.Security.xml
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Microsoft.Owin.Security.Facebook.xml
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Microsoft.Owin.Security.Cookies.xml
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Microsoft.Owin.Security.OAuth.xml
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Microsoft.Owin.Security.Google.xml
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Microsoft.Owin.Security.Twitter.xml
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\fr\System.Web.Helpers.resources.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\fr\System.Web.Mvc.resources.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\fr\System.Web.Optimization.resources.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\fr\System.Web.Razor.resources.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\fr\System.Web.WebPages.resources.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\fr\System.Web.WebPages.Deployment.resources.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\fr\System.Web.WebPages.Razor.resources.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\fr\EntityFramework.resources.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\fr\EntityFramework.SqlServer.resources.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\fr\Microsoft.Owin.resources.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\fr\Microsoft.Owin.Security.resources.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\obj\Debug\Final.dll
+G:\MAISONNEUVE\Hiver 2017\Programmation web\Examen final1\Final\Final\obj\Debug\Final.pdb
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Final.dll.config
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Final.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Final.pdb
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Antlr3.Runtime.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\EntityFramework.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\EntityFramework.SqlServer.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Microsoft.Owin.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Microsoft.Owin.Security.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Newtonsoft.Json.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Owin.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\System.Web.Helpers.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\System.Web.Mvc.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\System.Web.Optimization.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\System.Web.Razor.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\System.Web.WebPages.Deployment.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\System.Web.WebPages.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\System.Web.WebPages.Razor.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\WebGrease.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\System.Web.Helpers.xml
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\System.Web.Mvc.xml
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\System.Web.Optimization.xml
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\System.Web.Razor.xml
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\System.Web.WebPages.xml
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\System.Web.WebPages.Deployment.xml
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\System.Web.WebPages.Razor.xml
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Newtonsoft.Json.xml
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Antlr3.Runtime.pdb
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\EntityFramework.xml
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\EntityFramework.SqlServer.xml
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Microsoft.Owin.xml
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Microsoft.Owin.Security.xml
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\fr\System.Web.Razor.resources.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\fr\EntityFramework.resources.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\obj\Debug\Final.dll
+C:\Users\desktop owner\Desktop\MAISONNEUVE\ETE_2017\420-D71 PROGRAMMATION WEB - INTRODUCTION\Examen\Examen final1\Final\Final\obj\Debug\Final.pdb

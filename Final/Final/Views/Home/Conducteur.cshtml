@@ -1,0 +1,71 @@
+﻿@model IEnumerable<Final.Models.Voyage>
+
+@{
+    ViewBag.Title = "Conducteur";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Conducteur</h2>
+<br /><br />
+<h4>Liste des voyages que vous avez offerts</h4>
+<hr />
+
+<table class="table">
+    <tr>
+        <th>
+            @* @Html.DisplayNameFor(model => model.IdVoyage) *@
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Depart)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Arrivee)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Date)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Prix)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nbPlace)
+        </th>
+        <th>
+            @* @Html.DisplayNameFor(model => model.Conducteur) *@
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.HiddenFor(modelItem => item.IdVoyage)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Depart)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Arrivee)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Date)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Prix)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nbPlace)
+        </td>
+        <td>
+            @Html.HiddenFor(modelItem => item.Conducteur)
+        </td>
+        <td>
+            @Html.ActionLink("Supprimer", "Supprimer", new { id=item.IdVoyage })
+        </td>
+    </tr>
+}
+
+</table>
+
+@Html.Action("CreateVoyage")
+

@@ -1,0 +1,93 @@
+﻿@model Final.Models.Voyage
+@using Final.Models
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>CreateVoyage</title>
+</head>
+<body>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
+    
+    
+    @using (Html.BeginForm("CreateVoyage", "Home")) 
+    {
+        @Html.AntiForgeryToken()
+        
+        <div class="form-horizontal">
+            <h4>Ajouter un nouveau voyage</h4>
+            <hr />
+            @Html.ValidationSummary(true)
+    
+            <div class="form-group">
+                
+                <div class="col-md-10">
+                    @Html.HiddenFor(model => model.IdVoyage)
+                    @Html.ValidationMessageFor(model => model.IdVoyage)
+                </div>
+            </div>
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.Depart, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.Depart, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.Depart)
+                </div>
+            </div>
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.Arrivee, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.Arrivee, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.Arrivee)
+                </div>
+            </div>
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.Date, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.Date, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.Date)
+                </div>
+            </div>
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.Prix, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.Prix, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.Prix)
+                </div>
+            </div>
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.nbPlace, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.nbPlace, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.nbPlace)
+                </div>
+            </div>
+    
+            <div class="form-group">
+                
+                <div class="col-md-10">
+                    @Html.Hidden("Conducteur", Utilisateur.getByFullName(User.Identity.Name).Id)
+                    @Html.ValidationMessageFor(model => model.Conducteur)
+                </div>
+            </div>
+    
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Create" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+    
+</body>
+</html>
