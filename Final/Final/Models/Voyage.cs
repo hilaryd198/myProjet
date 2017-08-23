@@ -156,68 +156,64 @@ namespace Final.Models
         // Enlève une place au nombre de places disponibles
         public static bool Choisir(int IdVoyage, int IdPassager)
         {
+            bool choisi = false;
             string chConnexion = ConfigurationManager.ConnectionStrings["maCon"].ConnectionString;
-            string requete = "INSERT INTO Passager (IdVoyage, IdUtilisateur) VALUES (" + IdVoyage +", " + IdPassager + ")";
-            SqlConnection cnx = new SqlConnection(chConnexion);
-            SqlCommand cmd = new SqlCommand(requete, cnx);
-            cmd.CommandType = System.Data.CommandType.Text;
-            try
-            {
-                cnx.Open();
-                cmd.ExecuteNonQuery();
-            }
-            catch (Exception e)
-            {
-                string msg = e.Message;
-                return false;
-            }
-            finally
-            {
-                cnx.Close();
-            }
-
-            requete = "SELECT nbPlace FROM Voyage WHERE IdVoyage=" + IdVoyage;
+            string requete = "SELECT nbPlace FROM Voyage WHERE IdVoyage=" + IdVoyage;
             SqlConnection cnx2 = new SqlConnection(chConnexion);
             SqlCommand cmd2 = new SqlCommand(requete, cnx2);
             cmd2.CommandType = System.Data.CommandType.Text;
             int nb;
-            try
-            {
+            try {
                 cnx2.Open();
                 SqlDataReader dr = cmd2.ExecuteReader();
                 dr.Read();
                 nb = (int)dr["nbPlace"];
             }
-            catch (Exception e)
-            {
+            catch (Exception e) {
                 string msg = e.Message;
                 return false;
             }
-            finally
-            {
+            finally {
                 cnx2.Close();
             }
 
-            nb = nb - 1;
-            requete = "UPDATE Voyage SET nbPlace = " + nb + " WHERE IdVoyage = " + IdVoyage;
-            SqlConnection cnx3 = new SqlConnection(chConnexion);
-            SqlCommand cmd3 = new SqlCommand(requete, cnx3);
-            cmd3.CommandType = System.Data.CommandType.Text;
-            try
-            {
-                cnx3.Open();
-                cmd3.ExecuteNonQuery();
-            }
-            catch (Exception e)
-            {
-                string msg = e.Message;
-                return false;
-            }
-            finally
-            {
-                cnx3.Close();
-            }
-            return true;
+            if (nb > 0) {
+
+                requete = "INSERT INTO Passager (IdVoyage, IdUtilisateur) VALUES (" + IdVoyage + ", " + IdPassager + ")";
+                SqlConnection cnx = new SqlConnection(chConnexion);
+                SqlCommand cmd = new SqlCommand(requete, cnx);
+                cmd.CommandType = System.Data.CommandType.Text;
+                try {
+                    cnx.Open();
+                    cmd.ExecuteNonQuery();
+                }
+                catch (Exception e) {
+                    string msg = e.Message;
+                    return false;
+                }
+                finally {
+                    cnx.Close();
+                }
+
+                nb = nb - 1;
+                requete = "UPDATE Voyage SET nbPlace = " + nb + " WHERE IdVoyage = " + IdVoyage;
+                SqlConnection cnx3 = new SqlConnection(chConnexion);
+                SqlCommand cmd3 = new SqlCommand(requete, cnx3);
+                cmd3.CommandType = System.Data.CommandType.Text;
+                try {
+                    cnx3.Open();
+                    cmd3.ExecuteNonQuery();
+                }
+                catch (Exception e) {
+                    string msg = e.Message;
+                    return false;
+                }
+                finally {
+                    cnx3.Close();
+                }
+                choisi = true;
+            }           
+            return choisi;
         }
 
         // Renvoie un voyage en fonction de l'id
